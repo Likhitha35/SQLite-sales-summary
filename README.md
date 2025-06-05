@@ -38,7 +38,7 @@ The bar chart helps quickly compare sales performance across products.
 
 
 
-## ✅ Files Included
+🔗 Submission This repository contains:
 - `sql.ipynb` – Jupyter Notebook with complete task code.
 - `Bar Chart.png` – Bar chart screenshot.
 - `README.md` – This file.
